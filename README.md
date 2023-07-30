@@ -6,7 +6,7 @@
 
 - 🌐 **https://linktr.ee/Karandeep2310**
 
-- 💬 Ask me about **Javascript & React**
+- 💬 Ask me about **MERN stack, React Native, & Java**
 
 - 📫 How to reach me **karandeep9619@gmail.com**
 
