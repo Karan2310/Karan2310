@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Karandeep</h1>
-<h3 align="center">A student, programmer, web developer</h3>
+<h3 align="center">A student, programmer, Fullstack developer</h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
 </div>
+
+**https://linktr.ee/Karandeep2310**
 
 - 💬 Ask me about **Javascript & React**
 
